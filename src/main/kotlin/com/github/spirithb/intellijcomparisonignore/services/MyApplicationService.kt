@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.spirithb.intellijcomparisonignore.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.spirithb.intellijcomparisonignore.MyBundle
 
 class MyApplicationService {
 
